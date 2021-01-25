@@ -1,0 +1,29 @@
+.jumbotron {
+    background-color: lightgray;
+    height: 500px;
+    text-align: center;
+}
+.jumbotron img {
+    height: 200px;
+    width: 150px;
+}
+footer {
+    height: 40px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.carousel-inner img {
+    height: 600px;
+}
+h1 {
+    margin-top: 30px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.container .col {
+    text-align: center;
+}
+body{
+    background-color: lightgrey;
+}
